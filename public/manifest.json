@@ -1,0 +1,30 @@
+{
+  "name": "Bora Company - CNC Bearbeitung",
+  "short_name": "Bora Company",
+  "description": "Professionelle CNC-Bearbeitung, Präzisionsfertigung und Oberflächenbehandlung in Serbien",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1e40af",
+  "orientation": "portrait-primary",
+  "categories": ["business", "productivity"],
+  "lang": "de",
+  "icons": [
+    {
+      "src": "https://aislike.rs/bora/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "https://aislike.rs/bora/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "https://aislike.rs/bora/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
