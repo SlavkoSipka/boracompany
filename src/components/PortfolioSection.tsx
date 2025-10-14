@@ -112,12 +112,19 @@ export const PortfolioSection: React.FC = () => {
       isRealPartner: true,
       logo: "https://aislike.rs/bora/rc.png"
     },
-    { 
-      name: "Arnold Kunz Formbau", 
-      industry: "Manufacturing", 
+    {
+      name: "Arnold Kunz Formbau",
+      industry: "Manufacturing",
       link: "https://www.arnold-kunz-formbau.ch/home.html",
       isRealPartner: true,
       logo: null
+    },
+    {
+      name: "Erotech",
+      industry: "Technology",
+      link: "https://www.erotech.ch/",
+      isRealPartner: true,
+      logo: "https://aislike.rs/bora/ero.png"
     }
   ];
 
@@ -170,7 +177,7 @@ export const PortfolioSection: React.FC = () => {
                   {client.name}
                   {client.isRealPartner && <span className="ml-2 text-orange-500">★</span>}
                 </h4>
-                <p className="text-gray-600 font-medium text-lg">{client.industry} Industry</p>
+                <p className="text-gray-600 font-medium text-lg">{client.industry} {t.portfolio.industry}</p>
               </div>
             </a>
           ))}
@@ -178,4 +185,5 @@ export const PortfolioSection: React.FC = () => {
       </div>
     </section>
   );
+};
 };
