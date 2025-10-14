@@ -68,6 +68,7 @@ export interface Translation {
   portfolio: {
     title: string;
     description: string;
+    industry: string;
     industries: {
       automotive: string;
       aerospace: string;
@@ -210,6 +211,7 @@ export const translations: Record<'en' | 'de', Translation> = {
     portfolio: {
       title: "Trusted by Industry Leaders",
       description: "We partner with companies across various industries to deliver precision manufacturing solutions",
+      industry: "Industry",
       industries: {
         automotive: "Automotive",
         aerospace: "Aerospace",
@@ -372,6 +374,7 @@ export const translations: Record<'en' | 'de', Translation> = {
     portfolio: {
       title: "Vertrauen von Branchenführern",
       description: "Wir arbeiten mit Unternehmen aus verschiedenen Branchen zusammen, um präzise Fertigungslösungen zu liefern",
+      industry: "Branche",
       industries: {
         automotive: "Automobil",
         aerospace: "Luft- und Raumfahrt",
