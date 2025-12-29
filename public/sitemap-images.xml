@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <!-- Main Gallery Images -->
+  <url>
+    <loc>https://boracompany.ch/#gallery</loc>
+    <image:image>
+      <image:loc>https://aislike.rs/bora/3.jpg</image:loc>
+      <image:title>CNC Bearbeitung Präzisionsfertigung</image:title>
+      <image:caption>Hochwertige CNC-bearbeitete Komponenten für die Industrie</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://aislike.rs/bora/6.jpg</image:loc>
+      <image:title>CNC Fräsen Präzisionsteile</image:title>
+      <image:caption>Professionelle CNC-Fräsarbeiten mit höchster Präzision</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://aislike.rs/bora/11.jpg</image:loc>
+      <image:title>Sonderteile Fertigung Lohnfertigung</image:title>
+      <image:caption>Maßgeschneiderte Fertigungslösungen für individuelle Anforderungen</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://aislike.rs/bora/12.jpg</image:loc>
+      <image:title>Metallverarbeitung Oberflächenbehandlung</image:title>
+      <image:caption>Professionelle Metallbearbeitung mit Oberflächenveredelung</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://aislike.rs/bora/13.jpg</image:loc>
+      <image:title>CNC Qualitätskontrolle Präzisionsteile</image:title>
+      <image:caption>Strenge Qualitätskontrolle für höchste Präzision</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://aislike.rs/bora/14.jpg</image:loc>
+      <image:title>Verzinkung Vernickelung</image:title>
+      <image:caption>Professionelle Oberflächenbehandlung - Verzinkung und Vernickelung</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://aislike.rs/bora/15.jpg</image:loc>
+      <image:title>Industrielle Komponenten</image:title>
+      <image:caption>Robuste industrielle Bauteile für anspruchsvolle Anwendungen</image:caption>
+      <image:geo_location>Vrnjačka Banja, Serbia</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://aislike.rs/bora/16.jpg</image:loc>
+      <image:title>CNC Drehen Präzisionsteile</image:title>
+      <image:caption>Hochpräzise CNC-Drehteile nach Kundenspezifikation</image:caption>
+      <image:geo_location>Vrnjačka Banja, Serbia</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://aislike.rs/bora/17.jpg</image:loc>
+      <image:title>Werkstatt CNC Maschinen</image:title>
+      <image:caption>Moderne CNC-Werkstatt mit neuester Maschinentechnik</image:caption>
+      <image:geo_location>Vrnjačka Banja, Serbia</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://aislike.rs/bora/18.jpg</image:loc>
+      <image:title>Lohnfertigung Serbien</image:title>
+      <image:caption>Zuverlässige Lohnfertigung für deutsche Unternehmen</image:caption>
+      <image:geo_location>Vrnjačka Banja, Serbia</image:geo_location>
+    </image:image>
+  </url>
+
+  <!-- Company Logo and Branding -->
+  <url>
+    <loc>https://boracompany.ch/</loc>
+    <image:image>
+      <image:loc>https://aislike.rs/bora/logo1.jpg</image:loc>
+      <image:title>Bora Company Logo CNC Bearbeitung</image:title>
+      <image:caption>Bora Company - Ihr Partner für Präzisionsfertigung in Serbien</image:caption>
+      <image:geo_location>Vrnjačka Banja, Serbia</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://aislike.rs/bora/34.jpg</image:loc>
+      <image:title>CNC Werkstatt Serbien</image:title>
+      <image:caption>Moderne CNC-Werkstatt für Präzisionsfertigung</image:caption>
+      <image:geo_location>Vrnjačka Banja, Serbia</image:geo_location>
+    </image:image>
+  </url>
+
+  <!-- Partner Logos -->
+  <url>
+    <loc>https://boracompany.ch/#portfolio</loc>
+    <image:image>
+      <image:loc>https://aislike.rs/bora/fedex1.png</image:loc>
+      <image:title>FedEx Partner CNC Fertigung</image:title>
+      <image:caption>Vertrauenspartner von FedEx für Präzisionsteile</image:caption>
+      <image:geo_location>Vrnjačka Banja, Serbia</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://aislike.rs/bora/GW.svg</image:loc>
+      <image:title>Gebrüder Weiss CNC Partner</image:title>
+      <image:caption>Zuverlässiger Fertigungspartner für Gebrüder Weiss</image:caption>
+      <image:geo_location>Vrnjačka Banja, Serbia</image:geo_location>
+    </image:image>
+  </url>
+
+</urlset>

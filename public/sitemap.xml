@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  
+  <!-- Homepage - Highest Priority -->
+  <url>
+    <loc>https://boracompany.ch/</loc>
+    <lastmod>2025-01-27T12:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://boracompany.ch/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://boracompany.ch/" />
+    <image:image>
+      <image:loc>https://aislike.rs/bora/logo1.jpg</image:loc>
+      <image:title>Bora Company Logo</image:title>
+      <image:caption>Professional CNC machining and precision manufacturing</image:caption>
+      <image:geo_location>Vrnjačka Banja, Serbia</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://aislike.rs/bora/34.jpg</image:loc>
+      <image:title>CNC Workshop</image:title>
+      <image:caption>State-of-the-art CNC machining facility</image:caption>
+      <image:geo_location>Vrnjačka Banja, Serbia</image:geo_location>
+    </image:image>
+  </url>
+  
+  <!-- Services Section -->
+  <url>
+    <loc>https://boracompany.ch/#services</loc>
+    <lastmod>2025-01-27T12:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://boracompany.ch/#services" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://boracompany.ch/#services" />
+  </url>
+  
+  <!-- About Page -->
+  <url>
+    <loc>https://boracompany.ch/#about</loc>
+    <lastmod>2025-01-27T12:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://boracompany.ch/#about" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://boracompany.ch/#about" />
+    <image:image>
+      <image:loc>https://aislike.rs/bora/34.jpg</image:loc>
+      <image:title>About Bora Company</image:title>
+      <image:caption>15+ years of precision manufacturing experience</image:caption>
+      <image:geo_location>Vrnjačka Banja, Serbia</image:geo_location>
+    </image:image>
+  </url>
+  
+  <!-- Gallery Page -->
+  <url>
+    <loc>https://boracompany.ch/#gallery</loc>
+    <lastmod>2025-01-27T12:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://boracompany.ch/#gallery" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://boracompany.ch/#gallery" />
+    <image:image>
+      <image:loc>https://aislike.rs/bora/3.jpg</image:loc>
+      <image:title>Precision Manufacturing Gallery</image:title>
+      <image:caption>High-quality CNC machined components</image:caption>
+      <image:geo_location>Vrnjačka Banja, Serbia</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>https://aislike.rs/bora/6.jpg</image:loc>
+      <image:title>CNC Machining Services</image:title>
+      <image:caption>Advanced CNC machining capabilities</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://aislike.rs/bora/11.jpg</image:loc>
+      <image:title>Custom Parts Manufacturing</image:title>
+      <image:caption>Tailored manufacturing solutions</image:caption>
+    </image:image>
+  </url>
+  
+  <!-- Portfolio Section -->
+  <url>
+    <loc>https://boracompany.ch/#portfolio</loc>
+    <lastmod>2025-01-27T12:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://boracompany.ch/#portfolio" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://boracompany.ch/#portfolio" />
+    <image:image>
+      <image:loc>https://aislike.rs/bora/fedex1.png</image:loc>
+      <image:title>FedEx Partnership</image:title>
+      <image:caption>Trusted partner for logistics industry</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://aislike.rs/bora/GW.svg</image:loc>
+      <image:title>Gebrüder Weiss Partnership</image:title>
+      <image:caption>Professional manufacturing for European logistics</image:caption>
+    </image:image>
+  </url>
+  
+  <!-- Contact Section -->
+  <url>
+    <loc>https://boracompany.ch/#contact</loc>
+    <lastmod>2025-01-27T12:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://boracompany.ch/#contact" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://boracompany.ch/#contact" />
+  </url>
+  
+  <!-- Project / Case Study Page -->
+  <url>
+    <loc>https://boracompany.ch/#project</loc>
+    <lastmod>2025-01-27T12:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://boracompany.ch/#project" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://boracompany.ch/#project" />
+  </url>
+
+</urlset>
